@@ -1,0 +1,15 @@
+[27-Feb-2017 11:54:54 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 11:54:54 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 11:54:54 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 11:54:54 PRC] PHP Notice:  Undefined variable: _SESSION in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 65
+[27-Feb-2017 11:54:54 PRC] PHP Fatal error:  Class 'IndexController' not found in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 103
+[27-Feb-2017 13:22:41 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:41 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:41 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:41 PRC] PHP Notice:  Undefined variable: _SESSION in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 65
+[27-Feb-2017 13:22:41 PRC] PHP Fatal error:  Class 'IndexController' not found in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 103
+[27-Feb-2017 13:22:42 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:42 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:42 PRC] PHP Warning:  array_map() expects parameter 1 to be a valid callback, function 'stripSlashesDeep' not found or invalid function name in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 54
+[27-Feb-2017 13:22:42 PRC] PHP Notice:  Undefined variable: _SESSION in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 65
+[27-Feb-2017 13:22:42 PRC] PHP Fatal error:  Class 'IndexController' not found in D:\project\IronPHP\IronPHP\lib\core\Core.php on line 103
